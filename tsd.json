@@ -1,0 +1,30 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "underscore/underscore.d.ts": {
+      "commit": "015ed53e477487d56ebce27091f72e83e03b9c72"
+    },
+    "createjs/createjs.d.ts": {
+      "commit": "015ed53e477487d56ebce27091f72e83e03b9c72"
+    },
+    "createjs-lib/createjs-lib.d.ts": {
+      "commit": "015ed53e477487d56ebce27091f72e83e03b9c72"
+    },
+    "tweenjs/tweenjs.d.ts": {
+      "commit": "015ed53e477487d56ebce27091f72e83e03b9c72"
+    },
+    "preloadjs/preloadjs.d.ts": {
+      "commit": "015ed53e477487d56ebce27091f72e83e03b9c72"
+    },
+    "soundjs/soundjs.d.ts": {
+      "commit": "015ed53e477487d56ebce27091f72e83e03b9c72"
+    },
+    "easeljs/easeljs.d.ts": {
+      "commit": "015ed53e477487d56ebce27091f72e83e03b9c72"
+    }
+  }
+}
