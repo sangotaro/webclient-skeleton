@@ -3,6 +3,6 @@ webclient-skeleton
 
 ```
 npm install
-bower insall
+bower install
 tsd reinstall --save
 ```
