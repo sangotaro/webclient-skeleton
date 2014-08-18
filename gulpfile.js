@@ -26,4 +26,5 @@ gulp.task('test', function() {
   console.log(files);
 });
 
-gulp.task('default', ['vendor', 'test']);
+gulp.task('build', ['vendor', 'ts']);
+gulp.task('default', ['build']);
